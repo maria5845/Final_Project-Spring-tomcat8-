@@ -1,4 +1,4 @@
-# JL3B_TeamProject
+# Final_Project_Spring_tomcat8
 
 금일업무(05.27 커밋사항)
 1. 로그인, 회원가입
